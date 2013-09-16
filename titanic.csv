@@ -1,0 +1,13 @@
+"Status","Gender","Survival","Count"
+"Highest","M","Died",111
+"Highest","M","Survived",61
+"Middle","M","Died",150
+"Middle","M","Survived",22
+"Lowest","M","Died",419
+"Lowest","M","Survived",85
+"Highest","F","Died",6
+"Highest","F","Survived",126
+"Middle","F","Died",13
+"Middle","F","Survived",90
+"Lowest","F","Died",107
+"Lowest","F","Survived",101

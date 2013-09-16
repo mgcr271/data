@@ -1,0 +1,5 @@
+"Age","Hired","Count"
+"YoungerThan40","Hired",79
+"YoungerThan40","NotHired",1158
+"40OrOlder","Hired",1
+"40OrOlder","NotHired",165

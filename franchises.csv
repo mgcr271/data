@@ -1,0 +1,5 @@
+"Succcess","Exclusive","Count"
+"YesSucc","YesExcl",108
+"NoSucc","YesExcl",34
+"YesSucc","NoExcl",15
+"NoSucc","NoExcl",13

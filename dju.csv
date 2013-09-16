@@ -1,0 +1,16 @@
+"ID","Symbol","Firm","Assets","Sales","Profits"
+1,"AES","AES Corporation",34.806,16.07,1.234
+2,"AEP","American Electric Power",45.155,14.44,1.38
+3,"CNP","CenterPoint Energy, Inc.",19.676,10.725,0.391
+4,"ED","Consolidated Edison, Inc.",33.498,13.429,1.077
+5,"D","Dominion Resources, Inc.",42.053,16.29,1.834
+6,"DUK","Duke Energy Corporation",53.077,13.207,2.195
+7,"EIX","Edison International",44.615,14.112,1.215
+8,"EXC","Exelon Corporation",47.817,19.065,2.867
+9,"FE","FirstEnergy",33.521,13.627,1.342
+10,"FPL","FPL Group Corporation",44.821,16.68,1.754
+11,"NI","NiSource",20.032,8.309,-0.502
+12,"PCG","PG&E",40.86,14.628,1.338
+13,"PEG","Public Service Enterprise Group",29.049,13.322,1.192
+14,"SO","Southern Company, Inc.",48.347,17.11,1.492
+15,"WMB","Williams Companies, Inc.",26.006,11.256,0.694

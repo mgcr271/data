@@ -1,0 +1,10 @@
+"Wine","Music","Count"
+"FrenchWine","NoMusic",30
+"ItalianWine","NoMusic",11
+"OtherWine","NoMusic",43
+"FrenchWine","FrenchMusic",39
+"ItalianWine","FrenchMusic",1
+"OtherWine","FrenchMusic",35
+"FrenchWine","ItalianMusic",30
+"ItalianWine","ItalianMusic",19
+"OtherWine","ItalianMusic",35

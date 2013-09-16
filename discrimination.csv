@@ -1,0 +1,9 @@
+"group","school","gender","admit","count"
+1,"Business","Male","Admit",480
+2,"Business","Male","Deny",120
+3,"Business","Female","Admit",180
+4,"Business","Female","Deny",20
+5,"Law","Male","Admit",10
+6,"Law","Male","Deny",90
+7,"Law","Female","Admit",100
+8,"Law","Female","Deny",200

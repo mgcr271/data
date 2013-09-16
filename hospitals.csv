@@ -1,0 +1,5 @@
+"Hospital","Survival","Count","X","Hospital.1","Survival.1","Condition","Count.1","X.1","Hospital.2","Survival.2","Condition.1","Count.2"
+"A","Died",63,NA,"A","Died","Good",6,NA,"A","Died","Poor",57
+"A","Survived",2037,NA,"A","Survived","Good",594,NA,"A","Survived","Poor",1443
+"B","Died",16,NA,"B","Died","Good",8,NA,"B","Died","Poor",8
+"B","Survived",784,NA,"B","Survived","Good",592,NA,"B","Survived","Poor",192
